@@ -1,0 +1,14 @@
+name: AI Workdeck
+website_url: https://github.com/zeweihan/aiworkdeck
+description: Open-source AI-native IDE workspace for legal and document-heavy workflows — "VS Code for lawyers." Self-hosted with OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, smart clipboard. Supports air-gapped deployment with Ollama + local storage.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - Office Suites
+source_code_url: https://github.com/zeweihan/aiworkdeck
+stargazers_count: 34
+updated_at: '2026-06-15'
+archived: false
