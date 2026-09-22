@@ -1,0 +1,12 @@
+name: AI WorkDeck
+website_url: https://workdeck.ai
+description: AI workbench for legal and document-heavy work, with matters, files, agents, evidence and version history in one workspace and a LibreOffice-based editor where AI edits arrive as tracked changes for review.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Java
+  - Nodejs
+  - Docker
+tags:
+  - Document Management
+source_code_url: https://github.com/zeweihan/aiworkdeck
